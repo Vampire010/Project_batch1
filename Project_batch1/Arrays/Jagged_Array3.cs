@@ -8,7 +8,7 @@ namespace Project_batch1.Arrays
 {
     class Jagged_Array3
     {
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
             int[][][] intJaggedArray = new int[2][][]
                                                     {
