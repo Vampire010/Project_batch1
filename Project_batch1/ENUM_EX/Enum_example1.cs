@@ -18,7 +18,7 @@ namespace Project_batch1.ENUM_EX
             Saturday,
             Sunday
         }
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
             Console.WriteLine(WeekDays.Friday); //output: Friday
           
