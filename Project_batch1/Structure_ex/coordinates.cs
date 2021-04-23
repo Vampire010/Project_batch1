@@ -12,16 +12,20 @@ namespace Project_batch1.Structure_ex
         {
             public int x  ;
             public int y  ;
-
             public Coordinate(int x, int y)
+
             {
                 this.x = x;
                 this.y = y;
             }
 
+            public void add()
+            { 
+            }
+
         }
 
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
             Coordinate point = new Coordinate(10, 20);
 
